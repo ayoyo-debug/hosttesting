@@ -9,7 +9,7 @@ app.get("/temp", (req, res)=>{
 });
 
 app.get("/", (req, res)=>{
-    res.send("root");
+    res.send("roottt");
 });
 
 app.listen(3000);
